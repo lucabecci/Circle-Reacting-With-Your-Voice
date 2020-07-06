@@ -9,4 +9,4 @@ IMG:
 
 IMG2:
 
-![img2](https://github.com/lucabecci/Circle-Reacting-With-Your-Voice/blob/master/git2.png
+![img2](https://github.com/lucabecci/Circle-Reacting-With-Your-Voice/blob/master/git2.png)
